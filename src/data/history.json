@@ -1,0 +1,66 @@
+[
+  {
+    "role": "FullStack Developer",
+    "organisation": "Unibloom",
+    "startDate": "Dec, 2023",
+    "endDate": "March, 2024",
+    "experiences": [
+      "Responsible for building part of an application to help other companies decrease environmental impact",
+      "Worked with React, Typescript, Next, Tailwind in the Frontend and Next API Routes for the backend API", 
+      "Used React-Testing-Library to test the application", 
+      "Led the creation of core functionalities of the application, always bringing new ideas"],
+    "imageSrc": "history/unibloom_logo.jpeg"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "FullStack Labs, GoDaddy",
+    "startDate": "May, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Worked with React, Typescript, Tailwind and Cypress",
+      "Fixed bugs, developed new features and created end-2-end tests using Cypress in GoDaddy internal projects", 
+      "Let the development of funcionalities in an internal application, communicating with different teams"
+    ],
+    "imageSrc": "history/godaddy.png"
+  },
+  {
+    "role": "FullStack Developer",
+    "organisation": "FullStack Labs, Carrier",
+    "startDate": "Aug, 2021",
+    "endDate": "May, 2022",
+    "experiences": [
+      "Created an application to manage and fix fire alarm devices in big buildings",
+      "Worked with React, Typescript, Material-Ui, GraphQL, React-Testing-Library, Node, AWS",
+      "Created the authentication using OKTA as an SSO",
+      "Developed customized components based on Material-Ui, reusing them in different pages",
+      "Created some pages and core functionalities to register new fire alarm devices",
+      "Developed some of the API endpoints, connecting with the application"
+    ],
+    "imageSrc": "history/carrier_logo.jpg"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Audora",
+    "startDate": "Aug, 2019",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Worked with React, Javascript, Typescript, Ant Design",
+      "Developed business applications for public companies and public services",
+      "Led the development of core functionalities in some of the projects, communicating directly to the client",
+      "Guided new developers, mentoring."
+    ],
+    "imageSrc": "history/audora_logo.png"
+  },{
+    "role": "FullStack Developer",
+    "organisation": "Fábrica 18",
+    "startDate": "Dec, 2017",
+    "endDate": "Jan, 2019",
+    "experiences": [
+      "Created a fantasy football game, where the users could create their line up of players and would score points depending on their perfomance on real matches",
+      "Worked with React, Javascript, Redux, Python, MongoDB, AWS",
+      "Created many reusable components and some of the frontend functionalities, like the score page where the users could see how well they did on previous matches",
+      "Created many API endpoints, and was responsible for fetching all the matches data from third-party services and filtering it to be able to calculate the scores for each player and user"
+    ],
+    "imageSrc": "history/audora_logo.png"
+  }
+]

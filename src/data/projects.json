@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Tailwind Next",
+    "imageSrc": "projects/tailwind-next.png",
+    "description": "This is a simple application just to show the use of Tailwind CSS. There is no functionality, it is just to demonstrate the use of Tailwind in forms.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://tailwind-next-oj79et3o4-lucas-projects-f07f3c5f.vercel.app/",
+    "source": "https://www.github.com/FeederStark/tailwind-next"
+  },
+  {
+    "title": "React Video",
+    "imageSrc": "projects/react-video.png",
+    "description": "A simple application to use Redux functionalities with Typescript and Tailwind, where the user can see a list of classes and watch them in a video player.",
+    "skills": ["React", "Typescript", "Redux", "Tailwind"],
+    "demo": "https://react-video-10mrd341f-lucas-projects-f07f3c5f.vercel.app/",
+    "source": "https://github.com/FeederStark/Redux-Video"
+  }
+]

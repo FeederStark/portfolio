@@ -1,0 +1,59 @@
+[
+  {
+  "title": "React",
+  "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Material-Ui",
+    "imageSrc": "skills/material-ui.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
