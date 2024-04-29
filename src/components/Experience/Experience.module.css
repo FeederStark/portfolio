@@ -117,4 +117,24 @@
     width: 100%;
     gap: 9px;
   }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .skill p {
+    font-size: 20px;
+  }
+
+  .historyItemDetails h3 {
+    font-size: 25px;
+  }
+
+  .historyItemDetails p {
+    font-size: 16px;
+  }
+
+  .historyItemDetails ul {
+    font-size: 20px;
+  }
 }
